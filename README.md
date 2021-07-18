@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Estudante de tecnologia, meta em especialização em node.js, mas ainda sim estudando para ser um desenvolvedor web completo
+Desenvolvdeor Web com foco em backend, me especializando em JS => node.JS, mas em busca de um perfil de desenvolvedor web fullstack, nesse momento estou a desenvolver uma mini-loja-virtual para aumentar meu desempenho como dev
 <!--
 **Cichinato-Ivan/Cichinato-Ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
