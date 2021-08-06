@@ -1,5 +1,5 @@
 
-Tenho como objetivos adquirir grande experiência com Javascript, me empenhar também nas linguagens backend no futuro para me tornar um profissional mais completo no mercado  tendo em vista toda trajetória profissional sempre trabalhando com projetos do início ao fim na área da mecânica, quero manter esse mesmo rítmo com a programação, podendo do zero começar um projeto e fazê-lo até o final.
+Tenho como objetivos adquirir grande experiência com Javascript, me empenhar também nas linguagens backend no futuro para me tornar um profissional mais completo no mercado, podendo do zero começar um projeto e fazê-lo até o final. Mas foco maior ser especialista em Javascript.
 <!--
 **Cichinato-Ivan/Cichinato-Ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
